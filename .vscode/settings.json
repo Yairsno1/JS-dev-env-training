@@ -1,0 +1,6 @@
+{
+  "editor.fontSize": 16,
+  //Should be take care by ESLint
+  //? ESLint runs on save, does this built-in set work while typing
+  "javascript.validate.enable": false,
+}
